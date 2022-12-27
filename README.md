@@ -33,7 +33,7 @@ Jogo de palavras, a onde você tem que adivinhar a palavra de acordo com a dica.
 
 ## 👨🏻‍💻 Deploy
 
-<a target="_blank" href="#">CLICK PARA ACESSAR!</a>
+<a target="_blank" href="https://secret-word-tau.vercel.app/">CLICK PARA ACESSAR!</a>
 
 ## 💻 Como iniciar o projeto
 
