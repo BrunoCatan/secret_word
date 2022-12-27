@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Css.
 - Javascript.
+- React
 - Componentização.
 
 ## 💻 Projeto
